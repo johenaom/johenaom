@@ -1,6 +1,6 @@
 - 👋 Hola, soy Jose Oscar
 - 👀 Estoy interesado en el aprendizaje y enseñanza de la estadística , la econometría y temas vinculados a pobreza y desigualdad, bienes comunes y desarrollo sostenible
-- 🌱 Estoy constantemente aprendiendo R y Phyton
+- 🌱 Estoy constantemente aprendiendo R y Python
 - 💞️ Estoy buscando en colaborar en proyectos de análisis en los temas de interes
 - 📫 ¿Cómo puedes contactarme? me puedes escribir un email a johenaom@gmail.com
 
